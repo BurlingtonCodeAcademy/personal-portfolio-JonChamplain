@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <div className="parallax-container">
         <div className="background-close">
-          <img className="background-clouds" src="images/background-clouds.png" />
+          <img className="background-clouds" src="images/background-clouds-smaller.png" />
         </div>
         <div className="background-far">
           <img className="background-sun" src="images/sun.png" />

@@ -236,6 +236,7 @@ ul {
 
 /* footer styling */
 .footer {
-  margin-top: 40vh;
+  margin-top: 25vh;
+  padding-bottom: 10vh;
   font-size: 0.8rem;
 }
