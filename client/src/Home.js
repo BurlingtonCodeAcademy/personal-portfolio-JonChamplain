@@ -21,9 +21,6 @@ export default function Home() {
             <br></br>
             For examples of my work, you can view my portfolio <a href="/work">here</a>.
           </p>
-          <p>
-
-          </p>
         </div>
         
       </div>
