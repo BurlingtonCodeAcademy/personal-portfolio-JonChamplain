@@ -16,10 +16,13 @@ export default function Home() {
         <div className="text-block">
           <h2>I'm a web developer based in Burlington, Vermont.</h2>
           <br></br>
-          <br></br>
-          <br></br>
           <p>
-            I'm passionate about building beautiful and functional technology.
+            I love to build beautiful and functional technology.
+            <br></br>
+            For examples of my work, you can view my portfolio <a href="/work">here</a>.
+          </p>
+          <p>
+
           </p>
         </div>
         

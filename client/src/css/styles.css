@@ -1,6 +1,6 @@
 /* font imports */
 @import url("https://fonts.googleapis.com/css?family=Sniglet&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Livvic:300,400,500,600,700,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Livvic:400,500,&display=swap");
 @font-face {
   font-family: "handwriting";
   src: url(fonts/handwritingjonrussell-regular-webfont.woff) format("woff"),
@@ -132,9 +132,9 @@ body {
   font-weight: 400;
   color: #585153;
   font-size: 1.2rem;
-  width: 30vw;
+  width: 40vw;
   min-width: 200px;
-  padding-bottom: 10%;
+  
   line-height: 2;
 }
 
